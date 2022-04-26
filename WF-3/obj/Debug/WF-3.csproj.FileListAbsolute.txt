@@ -1,0 +1,13 @@
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-3\WF-3\bin\Debug\WF-3.exe.config
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-3\WF-3\bin\Debug\WF-3.exe
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-3\WF-3\bin\Debug\WF-3.pdb
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-3\WF-3\bin\Debug\MaterialSkin.dll
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-3\WF-3\obj\Debug\WF-3.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-3\WF-3\obj\Debug\WF-3.csproj.SuggestedBindingRedirects.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-3\WF-3\obj\Debug\WF_3.Properties.Resources.resources
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-3\WF-3\obj\Debug\WF-3.csproj.GenerateResource.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-3\WF-3\obj\Debug\WF-3.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-3\WF-3\obj\Debug\WF-3.csproj.CopyComplete
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-3\WF-3\obj\Debug\WF-3.exe
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-3\WF-3\obj\Debug\WF-3.pdb
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-3\WF-3\obj\Debug\WF_3.frmGerenciador.resources
